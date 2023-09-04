@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Various projects using Swiggy API**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://mdzakirahmed.netlify.app/](https://mdzakirahmed.netlify.app/)
 
