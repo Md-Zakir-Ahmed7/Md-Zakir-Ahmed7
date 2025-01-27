@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Zakir Ahmed</h1>
 <h3 align="center">Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
 
-- **• 🌱Current focus and Expertise**
+- **🌱Current focus and Expertise**
   
-- **• 𝐒𝐐𝐋 : Expert in crafting powerful queries to extract meaningful insights from data.**
+- **𝐒𝐐𝐋 : Expert in crafting powerful queries to extract meaningful insights from data.**
   
-- **• 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 : Skilled in creating interactive dashboards and reports that provide clear insights, empowering stakeholders to make informed decisions. I've applied Power BI to visualize complex data sets and identify key trends.**
+- **𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 : Skilled in creating interactive dashboards and reports that provide clear insights, empowering stakeholders to make informed decisions. I've applied Power BI to visualize complex data sets and identify key trends.**
   
-- **• 𝐄𝐱𝐜𝐞𝐥 : Proficient in using advanced formulas and pivot tables to deliver clear and impactful data analysis.**
+- **𝐄𝐱𝐜𝐞𝐥 : Proficient in using advanced formulas and pivot tables to deliver clear and impactful data analysis.**
 - 
 
 
