@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-zakir-ahmed7" alt="md-zakir-ahmed7" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mdzakirahmed.netlify.app/](https://mdzakirahmed.netlify.app/)
+- 👋 [https://mdzakirahmed.netlify.app/](https://mdzakirahmed.netlify.app/)
 
 - 📫 How to reach me **mdzakirahmed710@gmail.com**
 
