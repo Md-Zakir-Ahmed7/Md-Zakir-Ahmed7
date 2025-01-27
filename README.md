@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-photo/composite-collage-picture-black-white-colors-2350799167)]
 <h1 align="center">Hi 👋, I'm Md Zakir Ahmed</h1>
 <h3 align="center">Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
-<img align="right" alt="Coding" width="400" src="https:/https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif/>
+<img align="right" alt="Coding" width="400" src="https:/https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif/">
 - **🌱Current focus and Expertise**
   
 - **𝐒𝐐𝐋 : Expert in crafting powerful queries to extract meaningful insights from data.**
