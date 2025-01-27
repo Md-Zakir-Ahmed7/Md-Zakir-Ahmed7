@@ -1,4 +1,4 @@
-![MasterHead](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00)
+![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZpbnR2Njh4NHllOHpyOGdpZTJhOXJjb2lhb2pkdWtjYTZwbjJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif)
 <h1 align="center">Hi 👋, I'm Md Zakir Ahmed</h1>
 <h3 align="center">Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
