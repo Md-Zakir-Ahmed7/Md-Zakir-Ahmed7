@@ -11,11 +11,11 @@
 
 - **𝐃𝐚𝐭𝐚 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 : Transformed complex data into easy-to-understand visualizations that highlight key business trends. I've created visualizations that have facilitated understanding and decision-making.**
 
--**𝐄𝐓𝐋 : Ensures data integrity through meticulous Extract, Transform, Load processes across diverse datasets.**
+- **𝐄𝐓𝐋 : Ensures data integrity through meticulous Extract, Transform, Load processes across diverse datasets.**
 
--**𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 : Builds dynamic dashboards that provide real-time visibility into performance metrics and KPIs.**
+- **𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 : Builds dynamic dashboards that provide real-time visibility into performance metrics and KPIs.**
 
--**Portfolio:https://mdzakirahmed.netlify.app**
+- **Portfolio:https://mdzakirahmed.netlify.app**
 
 - 📫 How to reach me **mdzakirahmed710@gmail.com**
 
