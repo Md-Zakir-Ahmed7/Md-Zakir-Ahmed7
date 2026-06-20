@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Md-Zakir-Ahmed7/Md-Zakir-Ahmed7/blob/main/Banner.png)
 ![](https://komarev.com/ghpvc/?username=Md-Zakir-Ahmed7)
 <h1 align="center">Hi 👋, I'm Md Zakir Ahmed</h1>
-<h3 align="center">Data Aspirant specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
+<h3 align="center">Data Analyst specialized in SQL, Power BI and Excel.I turn complex data into actionable business insights and solve problems with innovative data solution.📊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - **🌱Current focus and Expertise**
